@@ -2,7 +2,7 @@
 
 **Software Engineer** · Full-Stack · ML  
 
-I gravitate toward the role of technical anchor — the person who makes sure things actually ship. Most of my professional experience is full-stack web (Next.js, Python, Docker), and on my own time I work on Android apps and ML systems. I'm comfortable owning architecture decisions and writing the boring-but-critical infrastructure, though I've been actively practicing *not* over-engineering early — scoping to the simplest thing that proves the idea before the abstractions show up.
+Software Engineer specializing in scalable AI infrastructure, machine learning systems, and advanced algorithm development. Right nowi focus in the design, development, and deployment of full-stack applications for businesses and startups. I build scalable, maintainable, and high-performance software solutions, from backend architecture and API development to modern frontend interfaces and cloud-based deployment. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jimenachinchilla-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/jimenachinchilla)
 [![Email](https://img.shields.io/badge/Email-jimemettr@gmail.com-EA4335?style=flat&logo=gmail)](mailto:jimemettr@gmail.com)
