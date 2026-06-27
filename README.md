@@ -4,7 +4,7 @@
 
 I gravitate toward the role of technical anchor — the person who makes sure things actually ship. Most of my professional experience is full-stack web (Next.js, Python, Docker), and on my own time I work on Android apps and ML systems. I'm comfortable owning architecture decisions and writing the boring-but-critical infrastructure, though I've been actively practicing *not* over-engineering early — scoping to the simplest thing that proves the idea before the abstractions show up.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arudaev-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/arudaev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jimenachinchilla-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/jimenachinchilla)
 [![Email](https://img.shields.io/badge/Email-jimemettr@gmail.com-EA4335?style=flat&logo=gmail)](mailto:jimemettr@gmail.com)
 
 ---
