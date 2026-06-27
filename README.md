@@ -2,7 +2,7 @@
 
 **Software Engineer** · Full-Stack · ML  
 
-Software Engineer specializing in scalable AI infrastructure, machine learning systems, and advanced algorithm development. Right nowi focus in the design, development, and deployment of full-stack applications for businesses and startups. I build scalable, maintainable, and high-performance software solutions, from backend architecture and API development to modern frontend interfaces and cloud-based deployment. 
+Software Engineer specializing in scalable AI infrastructure, machine learning systems, and advanced algorithm development. Right now, I focus in the design, development, and deployment of full-stack applications for businesses and startups. I build scalable, maintainable, and high-performance software solutions, from backend architecture and API development to modern frontend interfaces and cloud-based deployment. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jimenachinchilla-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/jimenachinchilla)
 [![Email](https://img.shields.io/badge/Email-jimemettr@gmail.com-EA4335?style=flat&logo=gmail)](mailto:jimemettr@gmail.com)
